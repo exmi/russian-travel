@@ -1,0 +1,30 @@
+.places__title{
+    color: #FFF;
+    font-size: 72px;
+    line-height: 76px;
+    margin: 0;
+    max-width: 100%;
+    align-self: end;
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  .places__title{
+    font-weight: 900;
+    font-size: 42px;
+<<<<<<< HEAD
+    line-height: 46px
+=======
+    line-height: 46px;
+>>>>>>> 118abea31c4426fc9fc845a8ca9d1769f1f19a3b
+  }
+
+}
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .places__title{
+    font-size: 32px;
+    line-height: 35px;
+    margin: 0 auto 0 16px;
+    padding: 0;
+  }
+
+}
