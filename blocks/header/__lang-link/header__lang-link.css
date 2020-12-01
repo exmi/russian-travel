@@ -8,9 +8,5 @@
   margin-left: 18px;
 }
 .header__lang-link:focus{
-<<<<<<< HEAD
-  text-decoration: underline
-=======
   text-decoration: underline;
->>>>>>> 118abea31c4426fc9fc845a8ca9d1769f1f19a3b
 }
