@@ -1,0 +1,33 @@
+.lead__image-map{
+  width: 937px;
+  height: 263px;
+  margin: 90px auto 0 auto;
+}
+
+
+@media screen and (min-width: 1023px) and (max-width: 1279px) {
+  .lead__image-map{
+    width: 884px;
+    height: 248px;
+    margin: 85px auto 0 auto;
+  }
+
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+
+.lead__image-map{
+  width: 731px;
+  height: 205px;
+  margin: 70px auto 0 auto;
+  }
+}
+
+@media screen and (min-width: 320px ) and (max-width: 767px) {
+
+.lead__image-map{
+  width: 305px;
+  height: 86px;
+  margin: 29px auto 0 auto;
+  }
+}

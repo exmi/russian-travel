@@ -1,0 +1,15 @@
+.places__website{
+  align-self: end;
+  padding: 0;
+  margin: 0;
+}
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .places__website{
+    display: none;
+  }
+
+  .places__website a.places__link{
+    display: none;
+  }
+
+}
