@@ -1,5 +1,5 @@
 # Проект 3: Путешествие по России
-[Проект на GitHub](https://github.com/exmi/russian-travel.git)
+[Проект на GitHub](https://exmi.github.io/russian-travel/)
 
 ## Проект позволяет пользователям ознакомится с некоторой информацией о достопремечательностях России
 
